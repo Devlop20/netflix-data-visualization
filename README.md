@@ -1,1 +1,40 @@
-# netflix-data-visualization
+# Netflix Data Exploration and Visualization
+
+## Project Overview
+This project focuses on Exploratory Data Analysis (EDA) and Visualization of Netflix movies and TV shows dataset.
+
+The objective was to analyze content trends, understand audience preferences, identify country-wise content distribution, and generate business insights that could help Netflix make strategic decisions.
+
+## Tools & Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Analysis Performed
+- Movies vs TV Shows comparison
+- Content distribution across countries
+- Year-wise release trend analysis
+- Ratings analysis
+- Genre analysis
+- Director and actor analysis
+- Duration analysis
+- Missing value treatment
+- Data cleaning and preprocessing
+- Univariate and bivariate analysis
+
+## Key Business Insights
+- Identified growth trends in Netflix content
+- Analyzed popular genres and content types
+- Studied country-wise content production
+- Observed increasing focus on TV Shows in recent years
+
+## Recommendations
+- Content expansion strategies for different countries
+- Suggestions for genre-based investments
+- Insights for improving audience engagement
+
+## Files Included
+- Netflix_EDA.pdf
